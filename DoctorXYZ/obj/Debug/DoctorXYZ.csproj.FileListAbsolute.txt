@@ -1,0 +1,9 @@
+C:\programming1\DoctorXYZ\bin\Debug\DoctorXYZ.exe.config
+C:\programming1\DoctorXYZ\bin\Debug\DoctorXYZ.exe
+C:\programming1\DoctorXYZ\bin\Debug\DoctorXYZ.pdb
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.csprojAssemblyReference.cache
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.frmHome.resources
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.Properties.Resources.resources
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.csproj.GenerateResource.cache
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.exe
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.pdb
