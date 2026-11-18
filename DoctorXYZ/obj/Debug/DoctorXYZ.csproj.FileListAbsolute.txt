@@ -7,3 +7,7 @@ C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.Properties.Resources.resources
 C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.csproj.GenerateResource.cache
 C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.exe
 C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.pdb
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.frmPatients.resources
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.frmPrescriptions.resources
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.frmRefills.resources
+C:\programming1\DoctorXYZ\obj\Debug\DoctorXYZ.frmSettings.resources
